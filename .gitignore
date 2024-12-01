@@ -1,0 +1,15 @@
+# Ignore build files for c
+*.o
+*.a
+main
+
+# Don't ignore main.c
+!main.c
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore input files
+**/*.txt
