@@ -49,4 +49,5 @@ To compile and run a `C` or a `Python` file, use the following command:
 <details>
     <summary>Comments</summary>
     - Day 1: I forgot to set up proper boundaries for my mergesort implementation and I was getting a lower number for part 1.
+    - Day 2: I had a stupid error in which I wasn't using the proper parameter in the function definition lol.
 </details>
