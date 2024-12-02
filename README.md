@@ -9,7 +9,7 @@ My solutions for AOC 2024. I'll try to switch programming languages every now an
 
 ## How to compile
 
-To compile and run a `C` file, use the following command:
+To compile and run a `C` or a `Python` file, use the following command:
 
 ```bash
 ./compile_and_run.sh <day>
@@ -19,7 +19,7 @@ To compile and run a `C` file, use the following command:
 <summary>Progress</summary>
 
 - [x] Day 1: `C`
-- [ ] Day 2
+- [x] Day 2: `Python`
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
