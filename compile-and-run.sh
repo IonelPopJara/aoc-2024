@@ -6,19 +6,25 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-# Format the day into the correct file name, e.g., day-01.c
+# Format the day into the correct file name, e.g., day-01
 DAY=$(printf "day-%02d" "$1")
 
 # Check if the source file exists
 C_FILE="./src/$DAY/$DAY.c"
-if [ ! -f "$C_FILE" ]; then
-    echo "Error: Source file $C_FILE not found!"
-    exit 1
+PY_FILE="./src/$DAY/$DAY.py"
+
+if [ -f "$C_FILE" ]; then
+    # Compile the C file
+    gcc "$C_FILE" -o "./src/$DAY/main" -g
+    # Run the compiled binary
+    ./src/$DAY/main "./src/$DAY/"
+elif [ -f "$PY_FILE" ]; then
+    python "$PY_FILE" "./src/$DAY/"
+else
+    echo "Error: Source file not found!"
 fi
 
-# Compile the C file
-gcc "$C_FILE" -o "./src/$DAY/main" -g
+exit 1
 
-# Run the compiled binary
-./src/$DAY/main "./src/$DAY/"
+
 
