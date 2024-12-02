@@ -5,7 +5,7 @@ My solutions for AOC 2024. I'll try to switch programming languages every now an
 ## Repo details
 
 - Programming languages used: `C`, `Python`.
-- Total Stars Collected: 2
+- Total Stars Collected: 4
 
 ## How to compile
 
