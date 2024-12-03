@@ -5,7 +5,7 @@ My solutions for AOC 2024. I'll try to switch programming languages every now an
 ## Repo details
 
 - Programming languages used: `C`, `Python`.
-- Total Stars Collected: 4
+- Total Stars Collected: 6
 
 ## How to compile
 
@@ -20,7 +20,7 @@ To compile and run a `C` or a `Python` file, use the following command:
 
 - [x] Day 1: `C`
 - [x] Day 2: `Python`
-- [ ] Day 3
+- [x] Day 3: `Python`
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
@@ -51,5 +51,6 @@ To compile and run a `C` or a `Python` file, use the following command:
 
 - Day 1: I forgot to set up proper boundaries for my mergesort implementation and I was getting a lower number for part 1.
 - Day 2: I had a stupid error in which I wasn't using the proper parameter in the function definition lol.
+- Day 3: I should learn regex man.
 
 </details>
