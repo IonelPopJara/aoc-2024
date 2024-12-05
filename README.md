@@ -1,6 +1,18 @@
 # Advent Of Code 2024
 
 My solutions for AOC 2024. I'll try to switch programming languages every now and then.
+Or maybe I'll just stick with python...
+
+```bash
+.      *    *           *.       *   .                      *     .
+               .   .                   __   *    .     * .     *
+    *       *         *   .     .    _|__|_        *    __   .       *
+  .  *  /\       /\          *        ('')    *       _|__|_     .
+       /  \   * /  \  *          .  <( . )> *  .       ('')   *   *
+  *    /  \     /  \   .   *       _(__.__)_  _   ,--<(  . )>  .    .
+      /    \   /    \          *   |       |  )),`   (   .  )     *
+   *   `||` ..  `||`   . *.   ... ==========='`   ... '--`-` ... * jb .
+```
 
 ## Repo details
 
