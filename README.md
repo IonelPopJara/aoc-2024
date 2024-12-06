@@ -17,7 +17,7 @@ Or maybe I'll just stick with python...
 ## Repo details
 
 - Programming languages used: `C`, `Python`.
-- Total Stars Collected: 10
+- Total Stars Collected: 12
 
 ## How to compile
 
@@ -35,7 +35,7 @@ To compile and run a `C` or a `Python` file, use the following command:
 - [x] Day 3: `Python`
 - [x] Day 4: `Python`
 - [x] Day 5: `Python`
-- [ ] Day 6
+- [x] Day 6: `Python`
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
@@ -66,5 +66,6 @@ To compile and run a `C` or a `Python` file, use the following command:
 - Day 3: I should learn regex man.
 - Day 4: I spent a lot of time making functions that overcomplicated the problem :/
 - Day 5: I had a "smart" idea but I should've done my first idea instead... That one worked. Also, bogosort lmao.
+- Day 6: Bruteforce let's gooo
 
 </details>
