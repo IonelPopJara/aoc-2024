@@ -17,7 +17,7 @@ Or maybe I'll just stick with python...
 ## Repo details
 
 - Programming languages used: `C`, `Python`.
-- Total Stars Collected: 16
+- Total Stars Collected: 19
 
 ## How to compile
 
@@ -38,9 +38,9 @@ To compile and run a `C` or a `Python` file, use the following command:
 - [x] Day 6: `Python`
 - [x] Day 7: `Python`
 - [x] Day 8: `Python`
-- [ ] Day 9
+- [ ] Day 9: `C`
 - [ ] Day 10
-- [ ] Day 11
+- [x] Day 11: `Python`
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
@@ -69,5 +69,8 @@ To compile and run a `C` or a `Python` file, use the following command:
 - Day 6: Bruteforce let's gooo!
 - Day 7: It was pretty ok.
 - Day 8: I forgot to count the antennas so I wasted 20 minutes.
+- Day 9: I decided to do it in C, I can't do part 2... I need to do it once I'm rested.
+- Day 10: TDB.
+- Day 11: I spent a lot of time debuging because I mixed up ints and strings. I also didn't think of using DP so I looked up hints on Reddit.
 
 </details>
